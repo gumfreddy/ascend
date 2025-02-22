@@ -1,2 +1,2 @@
 # ascend
-a linkedin clone 
+a Linkedin clone 
